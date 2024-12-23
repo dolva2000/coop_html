@@ -1,0 +1,1700 @@
+Uri: https://dreamgigs.dreamstechnologies.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/about-us.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\about-us.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/add-gigs.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\add-gigs.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/css/bootstrap-datetimepicker.min.css
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\css\bootstrap-datetimepicker.min.css
+Content Type: text/css
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/css/bootstrap.min.css
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/css/feather.css
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\css\feather.css
+Content Type: text/css
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/css/owl.carousel.min.css
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/css/style.css
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\css\style.css
+Content Type: text/css
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/fonts/Feather.svg?sdxovp
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\fonts\Feather.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/fonts/Feather.ttf?sdxovp
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\fonts\Feather.ttf
+Content Type: font/ttf
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/fonts/Feather.woff?sdxovp
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\fonts\Feather.woff
+Content Type: font/woff
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/aboutus/about-us-01.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\aboutus\about-us-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/aboutus/about-us-02.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\aboutus\about-us-02.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/aboutus/about-us-03.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\aboutus\about-us-03.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/aboutus/about-us-04.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\aboutus\about-us-04.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/aboutus/about-us-05.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\aboutus\about-us-05.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/banner-img.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\banner-img.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/banner-bg-01.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\banner-bg-01.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/banner-bg-02.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\banner-bg-02.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/banner-bg-03.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\banner-bg-03.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/banner-bg-04.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\banner-bg-04.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/banner-small-bg-01.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\banner-small-bg-01.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/banner-small-bg-02.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\banner-small-bg-02.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/breadcrumb-bg.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\breadcrumb-bg.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/contact-bg-01.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\contact-bg-01.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/contact-bg-02.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\contact-bg-02.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/contact-bg.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\contact-bg.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/dash-bg.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\dash-bg.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/error-01.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\error-01.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/error-02.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\error-02.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/error-03.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\error-03.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/error-04.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\error-04.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/faq-bg.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\faq-bg.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/footer-bg-01.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\footer-bg-01.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/footer-bg-02.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\footer-bg-02.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/form-bg-vector.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\form-bg-vector.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/market-bg-01.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\market-bg-01.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/market-bg.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\market-bg.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/provide-bg.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\provide-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/section-bg-02.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\section-bg-02.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/section-bg-03.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\section-bg-03.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/section-bg-04.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\section-bg-04.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/section-bg-05.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\section-bg-05.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/section-bg-06.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\section-bg-06.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/shape-01.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\shape-01.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/shape-02.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\shape-02.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/shape-03.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\shape-03.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/shape-04.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\shape-04.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/shape-05.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\shape-05.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/shape-06.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\shape-06.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/shape-07.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\shape-07.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/shape-08.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\shape-08.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/testimonial-bg-01.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\testimonial-bg-01.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/testimonial-bg-02.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\testimonial-bg-02.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/testimonial-bg-03.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\testimonial-bg-03.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/bg/title-bar-img.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\bg\title-bar-img.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/blog/blog-01.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\blog\blog-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/blog/blog-02.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\blog\blog-02.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/blog/blog-03.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\blog\blog-03.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/blog/blog-04.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\blog\blog-04.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/blog/blog-05.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\blog\blog-05.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/blog/blog-06.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\blog\blog-06.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/blog/blog-07.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\blog\blog-07.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/blog/blog-08.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\blog\blog-08.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/blog/blog-09.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\blog\blog-09.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/blog/blog-large-01.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\blog\blog-large-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/blog/blog-mansory-01.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\blog\blog-mansory-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/blog/blog-mansory-02.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\blog\blog-mansory-02.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/blog/blog-mansory-03.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\blog\blog-mansory-03.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/blog/blog-thumb-01.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\blog\blog-thumb-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/blog/blog-thumb-02.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\blog\blog-thumb-02.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/blog/blog-thumb-03.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\blog\blog-thumb-03.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/category/category-01.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\category\category-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/category/category-02.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\category\category-02.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/category/category-03.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\category\category-03.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/category/category-04.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\category\category-04.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/category/category-05.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\category\category-05.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/category/category-06.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\category\category-06.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/category/category-07.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\category\category-07.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/category/category-08.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\category\category-08.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/category/category-09.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\category\category-09.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/category/category-10.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\category\category-10.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/category/category-11.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\category\category-11.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/category/category-12.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\category\category-12.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/category/category-13.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\category\category-13.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/chat-img-01.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\chat-img-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/company/company-logo-01.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\company\company-logo-01.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/company/company-logo-02.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\company\company-logo-02.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/company/company-logo-03.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\company\company-logo-03.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/company/company-logo-04.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\company\company-logo-04.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/company/company-logo-05.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\company\company-logo-05.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/company/company-logo-06.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\company\company-logo-06.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/company/company-logo-07.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\company\company-logo-07.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/contact-01.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\contact-01.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/contact-02.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\contact-02.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/error/error-404.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\error\error-404.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/error/error-500.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\error\error-500.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/favicon.png
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gallery/gallery-01.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gallery\gallery-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gallery/gallery-02.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gallery\gallery-02.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gallery/gallery-03.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gallery\gallery-03.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gallery/gallery-04.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gallery\gallery-04.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gallery/gallery-05.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gallery\gallery-05.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gallery/gallery-06.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gallery\gallery-06.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gateway/gateway-01.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gateway\gateway-01.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gateway/gateway-02.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gateway\gateway-02.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gateway/gateway-03.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gateway\gateway-03.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gateway/gateway-04.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gateway\gateway-04.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gateway/gateway-05.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gateway\gateway-05.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gateway/gateway-06.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gateway\gateway-06.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gateway/gateway-07.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gateway\gateway-07.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gateway/gateway-09.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gateway\gateway-09.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gateway/gateway-10.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gateway\gateway-10.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gateway/gateway-11.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gateway\gateway-11.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/gigs-01.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\gigs-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/gigs-02.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\gigs-02.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/gigs-03.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\gigs-03.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/gigs-04.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\gigs-04.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/gigs-05.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\gigs-05.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/gigs-06.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\gigs-06.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/gigs-07.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\gigs-07.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/gigs-08.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\gigs-08.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/gigs-09.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\gigs-09.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/gigs-10.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\gigs-10.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/gigs-11.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\gigs-11.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/gigs-12.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\gigs-12.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/gigs-13.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\gigs-13.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/gigs-14.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\gigs-14.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/gigs-15.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\gigs-15.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/list/gigs-01.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\list\gigs-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/list/gigs-02.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\list\gigs-02.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/list/gigs-03.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\list\gigs-03.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/list/gigs-04.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\list\gigs-04.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/list/gigs-05.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\list\gigs-05.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/list/gigs-06.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\list\gigs-06.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/list/gigs-07.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\list\gigs-07.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/list/gigs-08.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\list\gigs-08.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/list/gigs-09.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\list\gigs-09.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/list/gigs-10.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\list\gigs-10.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/list/gigs-11.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\list\gigs-11.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/list/gigs-12.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\list\gigs-12.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/list/gigs-13.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\list\gigs-13.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/gigs/list/gigs-14.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\gigs\list\gigs-14.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/add-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\add-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/arrow-badge-up.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\arrow-badge-up.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/arrow-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\arrow-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/bell-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\bell-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/blog-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\blog-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/book-01.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\book-01.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/book-02.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\book-02.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/book-03.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\book-03.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/book-04.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\book-04.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/book-05.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\book-05.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/calendar-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\calendar-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/category-icon-03.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\category-icon-03.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/category-icon-04.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\category-icon-04.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/category-icon-05.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\category-icon-05.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/category-icon-06.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\category-icon-06.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/category-icon-07.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\category-icon-07.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/category-icon-08.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\category-icon-08.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/category-icon-09.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\category-icon-09.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/category-icon-10.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\category-icon-10.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/category-icon-11.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\category-icon-11.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/category-icon-12.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\category-icon-12.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/category-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\category-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/check-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\check-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/contact-mail.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\contact-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/contact-map.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\contact-map.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/contact-phone.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\contact-phone.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/dashboard-icon-01.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\dashboard-icon-01.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/dashboard-icon-02.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\dashboard-icon-02.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/dashboard-icon-03.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\dashboard-icon-03.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/dashboard-icon-04.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\dashboard-icon-04.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/dashboard-icon-05.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\dashboard-icon-05.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/dashboard-icon-06.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\dashboard-icon-06.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/dashboard-icon-07.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\dashboard-icon-07.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/dashboard-icon-08.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\dashboard-icon-08.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/dashboard-icon-09.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\dashboard-icon-09.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/dashboard-icon-10.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\dashboard-icon-10.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/dashboard-icon-11.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\dashboard-icon-11.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/emoj-icon-01.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\emoj-icon-01.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/emoj-icon-02.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\emoj-icon-02.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/emoj-icon-03.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\emoj-icon-03.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/emoj-icon-04.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\emoj-icon-04.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/emoj-icon-05.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\emoj-icon-05.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/expert-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\expert-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/fb.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\fb.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/flag-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\flag-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/google-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\google-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/happy-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\happy-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/heart.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\heart.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/ipad-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\ipad-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/join-arrow.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\join-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/language-katakana.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\language-katakana.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/like.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\like.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/list-search-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\list-search-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/loader-icon-01.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\loader-icon-01.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/logout.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\logout.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/map-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\map-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/map-pin-check.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\map-pin-check.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/map-pin-heart.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\map-pin-heart.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/money-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\money-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/paypal-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\paypal-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/play-01.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\play-01.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/popular-category-01.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\popular-category-01.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/popular-category-02.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\popular-category-02.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/popular-category-03.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\popular-category-03.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/popular-category-04.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\popular-category-04.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/popular-category-05.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\popular-category-05.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/quotation-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\quotation-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/rating-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\rating-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/search-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\search-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/section-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\section-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/service-01.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\service-01.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/service-02.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\service-02.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/service-03.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\service-03.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/service-04.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\service-04.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/service-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\service-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/settings-cog.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\settings-cog.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/status-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\status-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/steam-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\steam-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/stripe-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\stripe-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/subscribe-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\subscribe-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/tag-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\tag-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/target-arrow-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\target-arrow-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/time-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\time-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/upload-01.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\upload-01.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/upload-02.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\upload-02.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/upload-03.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\upload-03.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/upload-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\upload-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/user-cog.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\user-cog.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/user-edit.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\user-edit.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/user-heart.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\user-heart.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/user-icon-01.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\user-icon-01.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/user-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\user-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/user-star.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\user-star.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/users-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\users-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/vector-icon-01.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\vector-icon-01.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/vector-icon.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\vector-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/visa.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/wallet-01.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\wallet-01.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/wallet-02.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\wallet-02.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/wallet-03.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\wallet-03.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/why-choose-icon-01.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\why-choose-icon-01.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/why-choose-icon-02.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\why-choose-icon-02.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/why-choose-icon-03.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\why-choose-icon-03.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/why-choose-icon-04.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\why-choose-icon-04.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/why-choose-icon-05.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\why-choose-icon-05.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/icons/why-choose-icon-06.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\icons\why-choose-icon-06.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/list/list-01.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\list\list-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/list/list-02.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\list\list-02.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/list/list-03.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\list\list-03.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/list/list-04.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\list\list-04.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/list/list-05.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\list\list-05.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/list/list-06.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\list\list-06.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/list/list-07.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\list\list-07.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/list/list-08.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\list\list-08.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/list/list-09.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\list\list-09.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/list/list-10.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\list\list-10.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/list/list-11.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\list\list-11.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/list/list-12.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\list\list-12.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/list/list-13.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\list\list-13.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/login-card-01.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\login-card-01.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/login-card-02.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\login-card-02.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/logo.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/media/media-01.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\media\media-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/media/media-02.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\media\media-02.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/media/media-03.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\media\media-03.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/media/media-big-01.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\media\media-big-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/media/media-big-02.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\media\media-big-02.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/media/media-big-03.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\media\media-big-03.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/portfolio/portfolio-large-01.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\portfolio\portfolio-large-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/service/service-01.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\service\service-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/service/service-02.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\service\service-02.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/service/service-03.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\service\service-03.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/service/service-04.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\service\service-04.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/service/service-05.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\service\service-05.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/service/service-06.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\service\service-06.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/service/service-07.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\service\service-07.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/service/service-08.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\service\service-08.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/service/service-09.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\service\service-09.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/service/service-10.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\service\service-10.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/service/service-11.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\service\service-11.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/service/service-12.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\service\service-12.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/service/service-slide-01.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\service\service-slide-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/service/service-slide-02.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\service\service-slide-02.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/service/service-slide-03.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\service\service-slide-03.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/service/service-slide-04.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\service\service-slide-04.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/service/service-slide-05.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\service\service-slide-05.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/team/team-01.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\team\team-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/team/team-02.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\team\team-02.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/team/team-03.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\team\team-03.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/team/team-04.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\team\team-04.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/team/team-05.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\team\team-05.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/team/team-06.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\team\team-06.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/team/team-07.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\team\team-07.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/team/team-08.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\team\team-08.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/team/team-09.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\team\team-09.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/team/team-img.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\team\team-img.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/user/user-01.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\user\user-01.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/user/user-02.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\user\user-02.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/user/user-03.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\user\user-03.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/user/user-04.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\user\user-04.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/user/user-05.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\user\user-05.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/user/user-06.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\user\user-06.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/user/user-07.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\user\user-07.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/user/user-08.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\user\user-08.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/user/user-09.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\user\user-09.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/user/user-10.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\user\user-10.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/user/user-11.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\user\user-11.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/user/user-12.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\user\user-12.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/user/user-13.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\user\user-13.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/user/user-14.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\user\user-14.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/user/user-15.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\user\user-15.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/user/user-16.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\user\user-16.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/user/user-17.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\user\user-17.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/user/user-18.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\user\user-18.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/user/user-19.jpg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\user\user-19.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/voice.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\voice.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/img/white-logo.svg
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\img\white-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/js/bootstrap-datetimepicker.min.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\js\bootstrap-datetimepicker.min.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/js/bootstrap-scrollspy.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\js\bootstrap-scrollspy.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/js/bootstrap.bundle.min.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\js\bootstrap.bundle.min.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/js/feather.min.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\js\feather.min.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/js/jquery-3.7.1.min.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\js\jquery-3.7.1.min.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/js/jquery.counterup.min.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\js\jquery.counterup.min.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/js/jquery.slimscroll.min.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\js\jquery.slimscroll.min.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/js/jquery.waypoints.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\js\jquery.waypoints.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/js/moment.min.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\js\moment.min.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/js/owl.carousel.min.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\js\owl.carousel.min.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/js/script.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\js\script.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/aos/aos.css
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\aos\aos.css
+Content Type: text/css
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/aos/aos.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\aos\aos.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/apexchart/apexcharts.min.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\apexchart\apexcharts.min.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/apexchart/chart-data.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\apexchart\chart-data.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/boxicons/css/boxicons.min.css
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\boxicons\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/boxicons/fonts/boxicons.eot
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\boxicons\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/boxicons/fonts/boxicons.svg?
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\boxicons\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/boxicons/fonts/boxicons.ttf
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\boxicons\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/boxicons/fonts/boxicons.woff
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\boxicons\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/boxicons/fonts/boxicons.woff2
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\boxicons\fonts\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/datatables/datatables.min.css
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\datatables\datatables.min.css
+Content Type: text/css
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/datatables/datatables.min.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\datatables\datatables.min.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/datatables/jquery.dataTables.min.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\datatables\jquery.dataTables.min.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/fancybox/jquery.fancybox.min.css
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\fancybox\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/fancybox/jquery.fancybox.min.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\fancybox\jquery.fancybox.min.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/fontawesome/css/all.min.css
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/fontawesome/css/fontawesome.min.css
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\fontawesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/fontawesome/webfonts/fa-v4compatibility.ttf
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\fontawesome\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/fontawesome/webfonts/fa-v4compatibility.woff2
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\fontawesome\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/select2/css/select2.min.css
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\select2\css\select2.min.css
+Content Type: text/css
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/select2/js/select2.min.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\select2\js\select2.min.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/slick/slick.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\slick\slick.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/swiper/swiper.min.css
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\swiper\swiper.min.css
+Content Type: text/css
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/swiper/swiper.min.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\swiper\swiper.min.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/theia-sticky-sidebar/ResizeSensor.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\theia-sticky-sidebar\ResizeSensor.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/assets/plugins/theia-sticky-sidebar/theia-sticky-sidebar.js
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\assets\plugins\theia-sticky-sidebar\theia-sticky-sidebar.js
+Content Type: text/javascript
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/billing-settings.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\billing-settings.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/blog-2-grid.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\blog-2-grid.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/blog-carousel.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\blog-carousel.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/blog-details-right-sidebar.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\blog-details-right-sidebar.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/blog-details-sidebar.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\blog-details-sidebar.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/blog-details.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\blog-details.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/blog-list.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\blog-list.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/blog-mansory.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\blog-mansory.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/blog-right-sidebar.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\blog-right-sidebar.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/blog-sidebar.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\blog-sidebar.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/blog.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\blog.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/categories-2.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\categories-2.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/categories.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\categories.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/coming-soon.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\coming-soon.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/contact-us-v2.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\contact-us-v2.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/contact-us-v3.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\contact-us-v3.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/contact-us.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\contact-us.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/edit-gigs.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\edit-gigs.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/error-404.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\error-404.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/error-500.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\error-500.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/faq.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\faq.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/forgot-password.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\forgot-password.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/index.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\index.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/integration-settings.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\integration-settings.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/lock-screen.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\lock-screen.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/notification-settings.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\notification-settings.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/portfolio-details.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\portfolio-details.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/portfolio.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\portfolio.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/preference-settings.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\preference-settings.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/pricing.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\pricing.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/privacy-policy.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\privacy-policy.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/security-settings.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\security-settings.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/service-details.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\service-details.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/service-grid-sidebar.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\service-grid-sidebar.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/service-sub-category.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\service-sub-category.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/service.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\service.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/signin.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\signin.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/signup.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\signup.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/team-carousel.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\team-carousel.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/team-details.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\team-details.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/team.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\team.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/terms-condition.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\terms-condition.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/under-construction.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\under-construction.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/user-dashboard.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\user-dashboard.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/user-files.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\user-files.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/user-gigs.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\user-gigs.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/user-message.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\user-message.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/user-notification.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\user-notification.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/user-payments.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\user-payments.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/user-profile.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\user-profile.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/user-purchase.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\user-purchase.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/user-reviews.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\user-reviews.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/user-sales.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\user-sales.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/user-settings.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\user-settings.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/user-wallet.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\user-wallet.html
+Content Type: text/html
+
+Uri: https://dreamgigs.dreamstechnologies.com/html/template/user-wishlist.html
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\html\template\user-wishlist.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Users\Dolva\Documents\html\dreamgigs.dreamstechnologies.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
